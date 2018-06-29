@@ -1,4 +1,4 @@
-# thomas-hatting-map-my-world-robot
+# Project Map My World Robot
 
 
 PROJECT LICENSE
